@@ -1,2 +1,11 @@
 # Machine-Learning-Study-Note
-Original website： https://www.bilibili.com/video/BV1gg4y167o3?p=21
+
+Study Note of Machine Learning
+
+Record the original codes in the video.
+
+If it may be a litter helpful for you, please star me.
+
+Thank you!
+
+Original website： https://www.bilibili.com/video/BV1gg4y167o3?
